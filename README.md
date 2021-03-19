@@ -11,10 +11,11 @@ This bot is created for educational purposes only, I am not responsible for the 
 3. npm install prompt-sync
  
 ## Features:
-1. Created with Venom.<br />
-2. Easy to Use.<br />
-3. Added Inputs So its is User friendly.<br />
-4. Its headerless so you can upload it on heroku and use it for free. <br />
+1. Use Before Going to a Party :)
+2. Created with Venom.<br />
+3. Easy to Use.<br />
+4. Added Inputs So its is User friendly.<br />
+5. Its headerless so you can upload it on heroku and use it for free. <br />
 
 ## Note (Installation):
 1. Download and install Node.js
